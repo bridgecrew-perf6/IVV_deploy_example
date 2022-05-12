@@ -1,1 +1,1 @@
-web: gunicorn IVV.wsgi --logs.log -
+web: gunicorn rest.wsgi
